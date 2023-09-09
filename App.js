@@ -244,6 +244,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: '#fff',
     padding: 10,
   },
   header: {
@@ -274,6 +275,7 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'row',
     alignItems: 'center',
+    justifyContent: 'center',
   },
   searchBar: {
     flex: 1,
