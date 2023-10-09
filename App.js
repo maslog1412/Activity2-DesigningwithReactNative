@@ -1,4 +1,3 @@
-User
 import React, { useState } from 'react';
 import { View, ScrollView, Text, Image, StyleSheet, TextInput, Pressable } from 'react-native';
 import FontAwesome5Icon from 'react-native-vector-icons/FontAwesome5';
